@@ -5,14 +5,14 @@
 ---
 ### Додавання користувачів:
 1. **Натиснути Invite someone**
-   ![Invite someone](people1.png)
+   ![Invite someone](../people1.png)
 2. **Вписати нік, або імя або пошту користувача якого запрошуєм.**
-   ![Invite](invite.png)
+   ![Invite](../invite.png)
 3. **Надати права доступа Member, якщо необхідно, додати в команду**
-   ![Invite2](invite2.png)
+   ![Invite2](../invite2.png)
 4. **Відправити запрошення (Send invitation)**
 
 ---
 ### Видалення користувачів:
 1. **Натиснути People**
-   ![People](people2.png)
+   ![People](../people2.png)
